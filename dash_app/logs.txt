@@ -1,8 +1,0 @@
-[2020-11-05 00:31:44 +0000] [19] [INFO] Starting gunicorn 20.0.4
-[2020-11-05 00:31:44 +0000] [19] [INFO] Listening at: http://0.0.0.0:8050 (19)
-[2020-11-05 00:31:44 +0000] [19] [INFO] Using worker: sync
-[2020-11-05 00:31:44 +0000] [21] [INFO] Booting worker with pid: 21
-Application object must be callable.
-[2020-11-05 00:31:45 +0000] [21] [INFO] Worker exiting (pid: 21)
-[2020-11-05 00:31:45 +0000] [19] [INFO] Shutting down: Master
-[2020-11-05 00:31:45 +0000] [19] [INFO] Reason: App failed to load.
